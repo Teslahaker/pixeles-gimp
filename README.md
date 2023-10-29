@@ -1,0 +1,2 @@
+# pixeles-gimp
+para boni
